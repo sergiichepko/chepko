@@ -1,1 +1,0 @@
-# chepko hello world
